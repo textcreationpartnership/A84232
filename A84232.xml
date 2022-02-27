@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Examples for London or a paralell betweene the evill affected malignants of this city, and the seditious Jewes in Jerusalem Also declaring the miserable estate of this city, if this warre should continue, there being so many potent enemies within the confines of the said citie, which seeke to destroy the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84232</idno>
+            <idno type="STC">Wing E3734A</idno>
+            <idno type="STC">ESTC R225947</idno>
+            <idno type="EEBO-CITATION">99895651</idno>
+            <idno type="PROQUEST">99895651</idno>
+            <idno type="VID">153204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Examples for London or a paralell betweene the evill affected malignants of this city, and the seditious Jewes in Jerusalem Also declaring the miserable estate of this city, if this warre should continue, there being so many potent enemies within the confines of the said citie, which seeke to destroy the same.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, for Henry Hutton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Social conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153204:1" rendition="simple:additions"/>
+            <p>EXAMPLES FOR LONDON Or a Paralell betweene the evill-af<g ref="char:EOLhyphen"/>fected Malignants of this City, and the ſeditious <hi>Jewes</hi> in <hi>Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Alſo Declaring the miſerable eſtate of this City if this warre ſhould continue, there being ſo many potent Enemies within the Confines of the ſaid Citie, which ſeeke to deſtroy the ſame.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed, for <hi>Henry Hatton</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153204:2"/>
+            <pb n="1" facs="tcp:153204:2"/>
+            <head>Examples for LONDON</head>
+            <p>
+               <seg rend="decorInit">S</seg>Everall ſayings of Gods choſen ſervants in whom the Holy Ghoaſt it ſelfe ſpeaketh, are worthy perpetual remembrance, and if they be not re<g ref="char:EOLhyphen"/>garded, the godly are taken away to their reſt and joy, and then fol<g ref="char:EOLhyphen"/>loweth a plague unto y<hi rend="sup">e</hi> people, the miſeries and calamities that before was threatned by the mouthes of thoſe his meſſengers, ſo after the death of St. <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbrôſe,</hi> followed the vaſtiga<g ref="char:EOLhyphen"/>tion of <hi>Italy,</hi> after the death of St. <hi>Auguſtine,</hi> the <hi>Vandals</hi> entered <hi>Affricke,</hi> and then ſprung up the <hi>Ari<g ref="char:EOLhyphen"/>an</hi>-Heriſie after the death of <hi>Iohannes Huz,</hi> the fierce Battels of <hi>Bohemia,</hi> after the death of <hi>Martin Luther</hi> what terrible troubles and cruell callamities hapened who in his life time amongſt all other of his Workes left in memoriall This notable popheſie, that theſe 3. things would be the deſtruction of Chriſtian religion.</p>
+            <pb n="2" facs="tcp:153204:3"/>
+            <p> The firſt is forgetfullneſſe of benefits that we reſeved at Gods hands by the Goſpell, and unthankfullneſſe for the ſame. The ſecond is Careleſſneſſe. The third, that we l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke better of the worlds wiſdome, then of Godly wiſdome, within the compaſſe of our fooliſh braines we would Comprehend the Reaſon, Rule, Order, and end, of every thing, ungodly counſell is aprop and ſtay unto our determinations, we depend not upon the Lordes providence we aſke not counſell at the mouth of the Lord, if the Lord guide not the world after our owne will we like no longer to be governed by him, we forſake the Lord, we fly ſtraight to fleſh and blood, the proſperity of the world is our delight, and therefore we ſay ſimply as did the prophet <hi>Ieremiah</hi> we remember what we have done and lived merrely by it, when we ſa<g ref="char:EOLhyphen"/>craficed to the queene of heven, now we live in lack and fele much woe, even ſo ſay we, if we ſhould live ac<g ref="char:EOLhyphen"/>cording to the Goſpell we ſhould leave of our crafty cuning in getting, and perchance become beggers, wee ſhould leave our fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe ſwearing, and not ſell our wares.</p>
+            <p>We ſhould leave our acceſſe in vanity, which is our cheife delight.</p>
+            <p>We ſhould labour erneſtly and leave our ſlloathful reſt.</p>
+            <p>We ſhould give to thoſe that want and have no cer<g ref="char:EOLhyphen"/>tainety our ſerves.</p>
+            <p>But ſtill waight untill the Lord ſhall give us more</p>
+            <p>Fleſh and blood is our delighr the glory of the world is our joye, and this is contrary thereunto.</p>
+            <p>Thus we forſake the Lord, and caſt of the yoake of of Chriſtan profeſſion, nay of Chriſtian Religion, I may ſay, for we profeſſe ſomewhat, but expreſſe nothing in our lives and converſations, but Envie, Hatred and Mallice, and all uncharitableneſſe, we profeſſe purity, but our hearts are fraught wirh Hipocriſy.</p>
+            <pb n="3" facs="tcp:153204:3"/>
+            <p> Tis horible to be feared, becauſe of the ungodly, who for all they have ſo many labonrers from the Lord with his directions to teach the way to Heaven, who I am ſure with earneſt groanings, pray that his bleſt ſpirit would teach them what to ſpake, but they, by their neglect and ſlight regard, the nerears I do meane, for<g ref="char:EOLhyphen"/>ces them often to prenounce this woe, to have the Kingdome of Heaven taken from us, to have the gra<g ref="char:EOLhyphen"/>cious Goſſpell the emmortali ſeed and ſpirituall foode of our ſoules taken quite a way from us, ſo long as I thinke on it, I feare and tremble to thinke how ſoone that terible hunger may come, for now us ſet on foot, then we ſhall go, rune, and ſeeke earneſtly, and yet not finde the foode of our ſoules wherewith to be com<g ref="char:EOLunhyphen"/>forted: If we will fully forget Gods glory will he care for us. wherefore for Londons example, there was ne<g ref="char:EOLhyphen"/>ver a godlier City on the earrn, then was Jeruſalem, and yet when they refuſed to be Obedient unto the Lord, and begane to wax forgerfull of his great bene<g ref="char:EOLhyphen"/>fits, when they left of to aske counſell of the Lord, and truſted to mans vaine ſtrength, even then they were deſtroyed.</p>
+            <p>Even then they were begirt with death and Deſolation.</p>
+            <p>Even then did all their Channells flowe with Blood.</p>
+            <p>Her STREETS were filled with Scar<g ref="char:EOLhyphen"/>let.</p>
+            <p>Her precious palaces was filled with groanes and howlings.</p>
+            <p>Her Temple Doores were blockt up with Prieſts, deckt in their Golden Coapes.</p>
+            <p>Fired were their Barnes and Garners ſtuffed with Corne.</p>
+            <pb n="4" facs="tcp:153204:4"/>
+            <p> Their young Babes toſſed upon their Enemies Speares, Balls of wildfire hurld upon their lofty ſpires prided with goulden weines, this City ſeated by the hand of Heaven, and fixt upon the Navell of the Earth, by her owne diſcention was thus deſtroyed, her Nobles for<g ref="char:EOLhyphen"/>ced dayly to labour like the poreſt ſlaves, no more ac<g ref="char:EOLhyphen"/>count there was then made of them, but thirty there was ſould for one pore penny, the reſt were forced to live in woe and want, pinched with pennury, oppreſſed with labor in moſt cruell boncage and perpetu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſlave<g ref="char:EOLhyphen"/>ry. Oh <hi>London,</hi> take example, firſt by this glorious Ci<g ref="char:EOLhyphen"/>ty <hi>Jeruſalem,</hi> whoſe unnumbred Towers were built ſo nigh, that they ſeemed to touch, nay kiſle the cloudes, and now all lies flat, and not one ſtone left ſtanding upon another? Wilt thou not pitie Her.</p>
+            <p>But to come neerer unto our ſelves, how gallant and glorious a City was <hi>Antwerpe</hi> of late dayes, how flou<g ref="char:EOLhyphen"/>riſhed ſome part of <hi>Germany</hi> and <hi>Flanders,</hi> but when the voice of the Goſpell is not obeyed, when the King<g ref="char:EOLhyphen"/>dome of heaven is not ſought firſt, and before all things when Gods mercy is deſpiſed, and his Goſpell no more im<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tated, when the Spirit of the Creator is reſiſted and refuſed, then indeed we muſt needs loo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at which <hi>Martin Luther,</hi> that choſen Teſtament of the Lord, foretold us, <hi>That the Goſpell ſhould be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſlated from u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to ſome other Nation,</hi> or rat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er returned backe from us <hi>Gentills,</hi> unto the <hi>Iewes,</hi> from the new choſen refuſers to the old choſen proffeſſors.</p>
+            <p>It hath a hid and a moſt a darke miſtery, that many that proffeſſe themſelves to be Chriſtians, yet deny the Sacrament of Baptiſme, and ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all <hi>Iſralits</hi>-and carnall <hi>Jewes,</hi> have ereneſtly deſired <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Benefit of the ſame doubtleſſe it is true that <hi>Chriſt</hi> ſaid, <hi>you ſhall not finiſh all the Cities of</hi> Iudab, <hi>untill the comming againe of the Son of man.</hi> Somwhat willbe to doe among them. God hath a worke that he will doe, he hath a remnant
+<pb n="5" facs="tcp:153204:4"/>that he will call home, whereof <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull</hi> ſpeaketh ſaying blindneſſe is partly hapned unto <hi>Jſraell</hi> untill the fulneſſe of the Gentiles be accompliſhed, and ſo <hi>Jſraell</hi> ſhall be ſaved, hereof ſpeaketh <hi>Hillarius</hi> all is not yet doneth <hi>Jſraell,</hi> after the fulneſſe of the Gentiles is come <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, there is a remnant yet left in <hi>Jſrael</hi> that ſhall be gather<g ref="char:EOLhyphen"/>ed unto the Lord.</p>
+            <p>Our looſeneſſe of life is to any Chriſtians conſcience a terrible feare or rather ach part of any long continu<g ref="char:EOLhyphen"/>ance of the goſpell amongeſt us that we are ſo different in ſhew that it is hard to find many of one colour, of one Conſent, or of one <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike Dſpoſſtion ſome are white, ſome are blacke, ſome are dunne, ſome ate blew, ſome are Yellowe, ſome are Red, but aboundance browne, ſome are ſpoted, but ſome unſpotted.</p>
+            <p>On the other ſide one wolfe is like another, ſeeking to deface Gods glory blot out his name, and let up whome you will, let God and <hi>Moſes</hi> be forgotten in the Mount; a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will pluck of their ſpecial Iewis and ornament to ma e a molton Image, in this caſe helpe all you that are true proteſtants, lament all you good hriſtians, for reverent vſe of his name, ſpare no labour, ſpeake, ſue, intreate, incourage, your Knights of the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, the Burgeſſecs of the parliament, the Clarkes of the Convocation ſhew your z<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what you may to move, to procure ſonne Godly law whereby the cuſtomary evill uſe, vain a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of our ſacred God, his moſt mighty name may be reformed.</p>
+            <p>The force of Papiſtry, with all their wiſdome and power they labour to beate downe our lacke of good Life is ſtill the gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt loſſe, the ſtrongeſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>op, the unhappieſt hinderance that now remaineth againſt the fu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe and plentiousneſſe of Gods Kingdome, whoſe Kingdome if we build not to the end, whoſe ſpirit if we reſiſt and refuſe as heretofore (a fruit of infidellity) we are quite given over, the devill ſhall every where
+<pb n="6" facs="tcp:153204:5"/>the terrour of Conſcience appeare and ſhew himſelfe unto us (which God avert) and London be thou war<g ref="char:EOLhyphen"/>ned, oh thinke upon <hi>fernſalem,</hi> that was ſo faire, ſo beautious, and ſo pop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulus, her ſeverall Sects brought her to that confuſion, which God defend but that thou ſhouldeſt live and flouriſh, and maintaine the Churches glory, and be ſo he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d upon England, that the other Congregations in other Lands may confeſſe the to be no whit inferiour to any in the world, but rather a light and lanthorne unto the reſt, and tread cowne them that ſeekes to raze out the.</p>
+            <p>And laſt of all, to prompt the towards the imbrace<g ref="char:EOLhyphen"/>ing of an unity (the onely meanes to obtaine a religi<g ref="char:EOLhyphen"/>ous peace) thinke of the late flouriſhing eſtate of the Kingdome of <hi>Ireland,</hi> there thou mayſt ſee as in a glaſſe the miſery of Warre, the coſideration of which, I hope will prove a motive to repentance, and cauſe an union in Religion, and then we have no cauſe to feare but that God in his good time will give a period to all our feares, and rurne our mourning into a religious joy.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
